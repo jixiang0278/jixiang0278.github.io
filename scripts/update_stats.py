@@ -43,7 +43,7 @@ def main() -> None:
         for repo in public[:4]
     ]
 
-    work = get_json(f"https://api.openalex.org/works/{OPENALEX_ID}?mailto=3068784729@qq.com")
+    work = get_json(f"https://api.openalex.org/works/{OPENALEX_ID}")
     now = datetime.now(timezone.utc).isoformat()
     payload = {
         "updatedAt": now,

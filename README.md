@@ -10,8 +10,6 @@ Source for [jixiang0278.github.io](https://jixiang0278.github.io), a buildless a
 - Add publications to `data/publications.json` using the existing object as a template.
 - Update the Person JSON-LD block and SEO metadata in `index.html` when profile details change.
 
-The included email comes from the public author information for the linked paper. Replace it in `index.html` and `scripts/update_stats.py` if you prefer another address.
-
 ## Publications and citations
 
 The verified publication uses DOI [`10.3390/jmse14010047`](https://doi.org/10.3390/jmse14010047) and OpenAlex work ID [`W7117469142`](https://openalex.org/W7117469142). The journal citation uses volume year 2026; the article was published online on 26 December 2025.
