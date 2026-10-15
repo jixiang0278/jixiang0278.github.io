@@ -1,0 +1,19 @@
+[
+  {
+    "title": "The Effect of Density Difference on the Sedimentation Dynamics of Two Spherical Particles in Side-by-Side and Tandem Configurations",
+    "authors": ["Da Hui", "Xiang Ji", "Baizhuang Chen", "Mingfu Tang", "Lixin Xu"],
+    "journal": "Journal of Marine Science and Engineering",
+    "year": 2026,
+    "volume": "14",
+    "issue": "1",
+    "articleNumber": "47",
+    "publishedDate": "2025-12-26",
+    "doi": "10.3390/jmse14010047",
+    "url": "https://doi.org/10.3390/jmse14010047",
+    "openAlexId": "W7117469142",
+    "citationCount": 1,
+    "citationSource": "OpenAlex",
+    "citationUpdated": "2026-10-15",
+    "bibtex": "@article{hui2026density,\n  title={The Effect of Density Difference on the Sedimentation Dynamics of Two Spherical Particles in Side-by-Side and Tandem Configurations},\n  author={Hui, Da and Ji, Xiang and Chen, Baizhuang and Tang, Mingfu and Xu, Lixin},\n  journal={Journal of Marine Science and Engineering},\n  volume={14},\n  number={1},\n  pages={47},\n  year={2026},\n  doi={10.3390/jmse14010047},\n  publisher={MDPI}\n}"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-10-15",
+    "title": "Academic portfolio launched",
+    "description": "A new home for publications, open projects, and research updates.",
+    "placeholder": true
+  },
+  {
+    "date": "2026-01-01",
+    "title": "Add a recent research update",
+    "description": "Replace this sample entry with a verified talk, release, or milestone.",
+    "placeholder": true
+  },
+  {
+    "date": "2025-12-26",
+    "title": "Article published in JMSE",
+    "description": "Our study of density differences in two-particle sedimentation is available online.",
+    "placeholder": false
+  }
+]
