@@ -1,14 +1,27 @@
 {
-  "updatedAt": "2026-10-15T00:00:00+08:00",
+  "updatedAt": "2026-10-19T02:45:29.026339+00:00",
   "github": {
-    "publicRepos": 0,
+    "publicRepos": 1,
     "totalStars": 0,
-    "featured": []
+    "featured": [
+      {
+        "name": "jixiang0278.github.io",
+        "description": null,
+        "html_url": "https://github.com/jixiang0278/jixiang0278.github.io",
+        "language": "CSS",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-10-16T05:56:53Z",
+        "fork": false,
+        "archived": false
+      }
+    ]
   },
   "publications": {
     "W7117469142": {
       "citationCount": 1,
-      "source": "OpenAlex"
+      "source": "OpenAlex",
+      "updatedAt": "2026-10-19T02:45:29.026339+00:00"
     }
   }
 }
