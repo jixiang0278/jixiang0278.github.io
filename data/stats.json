@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-10-26T02:48:52.389058+00:00",
+  "updatedAt": "2026-11-02T03:00:11.108281+00:00",
   "github": {
     "publicRepos": 2,
     "totalStars": 0,
     "featured": [
+      {
+        "name": "jixiang0278.github.io",
+        "description": null,
+        "html_url": "https://github.com/jixiang0278/jixiang0278.github.io",
+        "language": "CSS",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-10-26T02:48:56Z",
+        "fork": false,
+        "archived": false
+      },
       {
         "name": "ecommerce-image-extractor",
         "description": "Chrome 电商商品图片提取与 PNG 批量下载插件及展示官网",
@@ -14,17 +25,6 @@
         "updated_at": "2026-10-19T07:04:55Z",
         "fork": false,
         "archived": false
-      },
-      {
-        "name": "jixiang0278.github.io",
-        "description": null,
-        "html_url": "https://github.com/jixiang0278/jixiang0278.github.io",
-        "language": "CSS",
-        "stargazers_count": 0,
-        "forks_count": 0,
-        "updated_at": "2026-10-19T02:45:33Z",
-        "fork": false,
-        "archived": false
       }
     ]
   },
@@ -32,7 +32,7 @@
     "W7117469142": {
       "citationCount": 1,
       "source": "OpenAlex",
-      "updatedAt": "2026-10-26T02:48:52.389058+00:00"
+      "updatedAt": "2026-11-02T03:00:11.108281+00:00"
     }
   }
 }
